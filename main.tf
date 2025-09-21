@@ -7,7 +7,7 @@
 # Made by Denis Astahov ADV-IT Copyleft (c) 2025
 #---------------------------------------------------------------------
 locals {
-  github_account_name = "adv4000" # GitHub Account name or GitHub Organization Name
+  github_account_name = "evg-int" # GitHub Account name or GitHub Organization Name
   github_permissions  = ["arn:aws:iam::aws:policy/AdministratorAccess"]
 }
 
